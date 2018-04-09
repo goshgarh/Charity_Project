@@ -1,3 +1,19 @@
 * {
     box-sizing: border-box;
 }
+
+#conatiner_bdb{
+
+
+
+    height:700px;
+    background-color: white;
+}
+
+#image_1
+{
+
+  float:left;
+  padding-right: 10px;
+
+}
