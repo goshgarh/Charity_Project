@@ -2,9 +2,24 @@
     box-sizing: border-box;
 }
 
+
+#conatiner_bdb
+{
+height:500px;
+
+}
+
+#image_1
+{
+  float:left;
+  padding-left: 10px;
+  height:200px;
+  width:15%;
+}
+
 .grd {
     display: flex;
-    
+
 }
 
 .item {
@@ -19,7 +34,7 @@ img {
 .h2_2 {
     text-align: center;
     margin: 15px auto;
-    
+
 }
 .item p {
     margin-left: 10px;
@@ -36,4 +51,3 @@ img {
         margin-left: auto;
     }
 }
-
